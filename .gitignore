@@ -1,3 +1,12 @@
 build/
 *.class
 *.exe
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
