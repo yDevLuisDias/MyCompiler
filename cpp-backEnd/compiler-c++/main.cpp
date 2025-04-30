@@ -1,13 +1,13 @@
-#include <iostream>
-
+#include "COMPILER.H"
 using namespace std;
-int a1 = 5;
+string test;
 
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cin >> test;
+    cout << test << endl;
 
-    cout << a1;
+
     return 0;
 }
