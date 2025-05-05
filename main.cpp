@@ -7,7 +7,7 @@ string test;
 int main()
 {
     cin >> test;
-    cout << test << endl;
+    cout << test;
 
 
     return 0;
